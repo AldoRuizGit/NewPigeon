@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <properties>
+        <property name="url.adminpage" value="http://automationpractice.com/index.php"></property>
+    </properties>
+    <drivers>
+        <driver id="chromedriver" type="ChromeDriver" version="75"/>
+        <driver id="firefoxdriver" type="FirefoxDriver" />
+
+    </drivers>
+</config>

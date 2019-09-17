@@ -1,0 +1,40 @@
+14:23:54:188 INFO  [BaseTestListener    ] - STARTING TESTSUITE: NewPigeon
+14:23:54:669 INFO  [PerformPracticeTest ] - configId: chromedriver
+14:23:54:670 INFO  [BaseTestSuite       ] - Initializing testsuite, should only run once per
+14:23:54:671 INFO  [BaseTestSuite       ] - Attempting to use version 75 for webdriver ChromeDriver.
+14:23:55:558 INFO  [PerformPracticeTest ] - INIT CLASS: PerformPracticeTest
+14:23:55:559 INFO  [DebugLevel          ] - Setting debugLevel to IMAGES_RESULT
+14:23:55:563 INFO  [PerformPracticeTest ] - configId: chromedriver
+14:23:55:570 INFO  [Setup               ] - Initializing ChromeDriver
+14:23:59:557 INFO  [Setup               ] - Setting implicit wait to 0 milliseconds
+14:24:06:065 INFO  [EventHandler        ] - Driver loaded URL: http://automationpractice.com/index.php
+14:24:07:202 INFO  [BaseTestListener    ] - TEST STARTED: performAtest
+14:24:07:225 TRACE [EventHandler        ] - Finding element: (By.xpath: //*[@id="header_logo"]/a/img)
+14:24:07:312 TRACE [Presence            ] - Element was displayed within 2000 milliseconds
+14:24:08:485 DEBUG [Screenshot          ] - Took screenshot, elapsed time: 1.147 s
+14:24:08:955 INFO  [BaseTestListener    ] - Appended screenshot with text '2019/09/16 - 14:24:08 - PASS:performAtest ' to file: target/surefire-reports\performAtest__chromedriver__2019-09-16--14-24-07.jpg in 466.9 ms
+14:24:08:956 ERROR [VideoRecording      ] - File : null could not be deleted: null
+14:24:08:956 INFO  [BaseTestListener    ] - TEST PASSED: performAtest
+
+14:24:08:957 INFO  [PerformPracticeTest ] - CLOSING CHROMEDRIVER: performAtest
+14:24:09:781 INFO  [BaseTestListener    ] - FINISHED TESTSUITE: NewPigeon
+09:20:05:503 INFO  [BaseTestListener    ] - STARTING TESTSUITE: NewPigeon
+09:20:06:224 INFO  [PerformPracticeTest ] - configId: chromedriver
+09:20:06:226 INFO  [BaseTestSuite       ] - Initializing testsuite, should only run once per
+09:20:06:226 INFO  [BaseTestSuite       ] - Attempting to use version 75 for webdriver ChromeDriver.
+09:20:07:203 INFO  [PerformPracticeTest ] - INIT CLASS: PerformPracticeTest
+09:20:07:205 INFO  [DebugLevel          ] - Setting debugLevel to IMAGES_RESULT
+09:20:07:209 INFO  [PerformPracticeTest ] - configId: chromedriver
+09:20:07:217 INFO  [Setup               ] - Initializing ChromeDriver
+09:20:10:583 INFO  [Setup               ] - Setting implicit wait to 0 milliseconds
+09:20:19:711 INFO  [EventHandler        ] - Driver loaded URL: http://automationpractice.com/index.php
+09:20:20:850 INFO  [BaseTestListener    ] - TEST STARTED: performAtest
+09:20:20:869 TRACE [EventHandler        ] - Finding element: (By.xpath: //*[@id="header_logo"]/a/img)
+09:20:20:952 TRACE [Presence            ] - Element was displayed within 2000 milliseconds
+09:20:22:083 DEBUG [Screenshot          ] - Took screenshot, elapsed time: 1.113 s
+09:20:22:453 INFO  [BaseTestListener    ] - Appended screenshot with text '2019/09/17 - 09:20:22 - PASS:performAtest ' to file: target/surefire-reports\performAtest__chromedriver__2019-09-17--09-20-20.jpg in 367.1 ms
+09:20:22:453 ERROR [VideoRecording      ] - File : null could not be deleted: null
+09:20:22:454 INFO  [BaseTestListener    ] - TEST PASSED: performAtest
+
+09:20:22:455 INFO  [PerformPracticeTest ] - CLOSING CHROMEDRIVER: performAtest
+09:20:23:186 INFO  [BaseTestListener    ] - FINISHED TESTSUITE: NewPigeon
